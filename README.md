@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahendra-chouhan" alt="mahendra-chouhan" /></a> </p>
 
-- 💬 Ask me about **Deep Learning, Machine learning, NLP**
+- 💬 Ask me about **Deep Learning, Machine learning, NLP, LLM**
 
 - 📫 How to reach me **mahendrachouhan01@gmail.com**
 
